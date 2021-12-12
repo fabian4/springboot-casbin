@@ -1,0 +1,3 @@
+casbin:
+  #When you open Watcher, the default use of RedisWatcher requires manual addition of spring-boot-starter-data-redis dependency.
+  enableWatcher: true
